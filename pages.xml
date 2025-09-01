@@ -12,16 +12,4 @@
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
-    <url>
-      <loc>https://memry-mu.vercel.app/profile</loc>
-      <lastmod>2025-09-01T20:57:27.524Z</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-    <url>
-      <loc>https://memry-mu.vercel.app/subscription</loc>
-      <lastmod>2025-09-01T20:57:27.524Z</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
   </urlset>

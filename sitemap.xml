@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://[your-github-username].github.io/memry-sitemaps/pages.xml</loc>
+    <lastmod>2025-09-01T19:48:32.625Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://[your-github-username].github.io/memry-sitemaps/videos.xml</loc>
+    <lastmod>2025-09-01T19:48:32.625Z</lastmod>
+  </sitemap>
+</sitemapindex>

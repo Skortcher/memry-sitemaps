@@ -1,6 +1,4 @@
 User-agent: *
-Allow: /
+  Allow: /
 
-Sitemap: https://[your-github-username].github.io/memry-sitemaps/sitemap.xml
-Sitemap: https://[your-github-username].github.io/memry-sitemaps/pages.xml
-Sitemap: https://[your-github-username].github.io/memry-sitemaps/videos.xml
+  Sitemap: https://skortcher.github.io/memry-sitemaps/sitemap.xml

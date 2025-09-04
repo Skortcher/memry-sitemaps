@@ -1,4 +1,4 @@
-User-agent: *
+  User-agent: *
   Allow: /
 
   Sitemap: https://skortcher.github.io/memry-sitemaps/sitemap.xml

@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-  <!-- Video URLs would be added here dynamically -->
   <url>
-    <loc>https://memry-mu.vercel.app/v/example</loc>
-    <video:video>
-      <video:thumbnail_loc>https://memry-mu.vercel.app/thumbnail.jpg</video:thumbnail_loc>
-      <video:title>Example Video</video:title>
-      <video:description>Example description</video:description>
-      <video:player_loc>https://memry-mu.vercel.app/v/example</video:player_loc>
-      <video:publication_date>2025-09-01T19:48:32.625Z</video:publication_date>
-    </video:video>
+    <loc>https://memry-mu.vercel.app/</loc>
   </url>
 </urlset>

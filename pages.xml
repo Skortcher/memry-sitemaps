@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://memry-mu.vercel.app/</loc>
-    <lastmod>2025-11-30T18:21:18.101Z</lastmod>
+    <loc>https://joinmemry.com/</loc>
+    <lastmod>2025-12-28T00:25:16.604Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://memry-mu.vercel.app/search</loc>
-    <lastmod>2025-11-30T18:21:18.101Z</lastmod>
+    <loc>https://joinmemry.com/search</loc>
+    <lastmod>2025-12-28T00:25:16.604Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://memry-mu.vercel.app/search/unified</loc>
-    <lastmod>2025-11-30T18:21:18.101Z</lastmod>
+    <loc>https://joinmemry.com/search/unified</loc>
+    <lastmod>2025-12-28T00:25:16.604Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://memry-mu.vercel.app/profile</loc>
-    <lastmod>2025-11-30T18:21:18.101Z</lastmod>
+    <loc>https://joinmemry.com/profile</loc>
+    <lastmod>2025-12-28T00:25:16.604Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://memry-mu.vercel.app/upload</loc>
-    <lastmod>2025-11-30T18:21:18.101Z</lastmod>
+    <loc>https://joinmemry.com/upload</loc>
+    <lastmod>2025-12-28T00:25:16.604Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://memry-mu.vercel.app/settings</loc>
-    <lastmod>2025-11-30T18:21:18.101Z</lastmod>
+    <loc>https://joinmemry.com/settings</loc>
+    <lastmod>2025-12-28T00:25:16.604Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://memry-mu.vercel.app/subscription</loc>
-    <lastmod>2025-11-30T18:21:18.101Z</lastmod>
+    <loc>https://joinmemry.com/subscription</loc>
+    <lastmod>2025-12-28T00:25:16.604Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

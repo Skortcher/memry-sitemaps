@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://joinmemry.com/</loc>
-    <lastmod>2025-12-28T00:34:27.285Z</lastmod>
+    <lastmod>2025-12-28T00:43:25.896Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://joinmemry.com/search</loc>
-    <lastmod>2025-12-28T00:34:27.285Z</lastmod>
+    <lastmod>2025-12-28T00:43:25.896Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://joinmemry.com/search/unified</loc>
-    <lastmod>2025-12-28T00:34:27.285Z</lastmod>
+    <lastmod>2025-12-28T00:43:25.896Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://joinmemry.com/profile</loc>
-    <lastmod>2025-12-28T00:34:27.285Z</lastmod>
+    <lastmod>2025-12-28T00:43:25.896Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://joinmemry.com/upload</loc>
-    <lastmod>2025-12-28T00:34:27.285Z</lastmod>
+    <lastmod>2025-12-28T00:43:25.896Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://joinmemry.com/settings</loc>
-    <lastmod>2025-12-28T00:34:27.285Z</lastmod>
+    <lastmod>2025-12-28T00:43:25.896Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://joinmemry.com/subscription</loc>
-    <lastmod>2025-12-28T00:34:27.285Z</lastmod>
+    <lastmod>2025-12-28T00:43:25.896Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
